@@ -76,3 +76,9 @@
     height: auto;
   }
 }
+@media screen and (max-width: 1030px) {
+  .inv-section .cards .emptyCard {
+    width: 0px;
+    height: 0px;
+  }
+}
